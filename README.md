@@ -24,3 +24,8 @@
 * Redis Caching 
 * InMemoryCahe
 * ASP.NET Core 6.0
+
+### ` 🌐 References`
+
+* In-Memeory Caching: https://www.codewithmukesh.com/blog/in-memory-caching-in-aspnet-core/
+* Redis Distributed Caching: https://www.codewithmukesh.com/blog/redis-caching-in-aspnet-core/
