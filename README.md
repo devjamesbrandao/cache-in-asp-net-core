@@ -11,7 +11,7 @@
 </p> 
 
 <p align="center">
-    <img src="/img/swagger.png" alt="Swagger of API" title="Swagger">
+    <img src="/img/swagger-cache.png" alt="Swagger of API" title="Swagger">
 </p> 
 
 
