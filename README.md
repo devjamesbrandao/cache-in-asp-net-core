@@ -29,6 +29,19 @@
 * InMemoryCahe
 * ASP.NET Core 6.0
 
+### ` 💻 How to use?`
+Navigate to: `src/Cache.API/AppSettings.json` and add connection string of redis and Sql Server
+
+<p align="center">
+    <img src="/img/connection-string.png" alt="Connection Dbs" title="Connection Dbs">
+</p> 
+
+Navigate to: `src/Cache.API` 
+
+<br />
+
+Execute: `dotnet restore`, `dotnet build` and `dotnet run`
+
 ### ` 🌐 References`
 
 * In-Memeory Caching: https://www.codewithmukesh.com/blog/in-memory-caching-in-aspnet-core/
