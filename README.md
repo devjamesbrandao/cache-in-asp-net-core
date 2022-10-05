@@ -3,6 +3,10 @@
 <hr/>
 
 <p align="center">
+    <img src="/img/architecture.png" alt="Architecture" title="Architecture">
+</p> 
+
+<p align="center">
     <img src="/img/cache-memoria-asp-net.png" alt="Cache in Memory" title="Memory">
 </p> 
 
