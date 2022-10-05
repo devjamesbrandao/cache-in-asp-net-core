@@ -28,6 +28,7 @@
 * Redis Caching 
 * InMemoryCahe
 * ASP.NET Core 6.0
+* Docker
 
 ### ` 💻 How to use?`
 Navigate to: `src/Cache.API/AppSettings.json` and add connection string of redis and Sql Server
